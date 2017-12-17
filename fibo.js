@@ -10,3 +10,4 @@ for (let x = 1; x < 20; x++) {
     nb1 = nb2;
     nb2 = nb3;
 }
+// je rajoute un truc mdr
